@@ -1,0 +1,7 @@
+"id","nombre","edad","tipoanimal","descripcion","comida","foto"
+"32","Felix","5","Domestico","Gato","Mirringo ","https://github.com/Alejandro0823/imagenesProyecto/blob/master/cat1.jpg?raw=true"
+"33","Rex","1","Domestico","Perro","Nutrican","https://github.com/Alejandro0823/imagenesProyecto/blob/master/dog1.jpg?raw=true"
+"34","Rebeca","8","Silvestre","Loro","semillas de girasol y frutas ","https://github.com/Alejandro0823/imagenesProyecto/blob/master/parrot1.jpg?raw=true"
+"35","Zeus","4","Domestico","Perro","Croquetas ","https://github.com/Alejandro0823/imagenesProyecto/blob/master/dog2.jpg?raw=true"
+"36","Garfield","2","Domestico","Gato","Atún","https://github.com/Alejandro0823/imagenesProyecto/blob/master/cat2.jpg?raw=true"
+"37","Rocky","3","Domestico","Perro","Nutrican, Croquetas","https://github.com/Alejandro0823/imagenesProyecto/blob/master/dog3.jpg?raw=true"
